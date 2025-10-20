@@ -79,6 +79,18 @@ The **Power BI Dashboard** presents the analyzed data in an interactive visual f
 -  **Insights Panel:** Key takeaways and data-driven conclusions  
 
 ---
+## Dashboard Screenshots
+**Home(Page 1)**
+![Home (Page1)](Dashboard%20Images/Home(page%201).JPG)
+
+**Global View(Page 2)**
+![Global View (Page 2)](Dashboard%20Images/Global%20View(Page%202).JPG)
+
+**Region View(Page 3)**
+![Region View (Page 3)](Dashboard%20Images/Region%20View(Page%203).JPG)
+
+**Country View(Page 4)**
+![Country View (Page 4)](Dashboard%20Images/Country%20View(Page%204).JPG)
 
 ##  Project Structure
 ```
